@@ -4,6 +4,7 @@ import random
 start = 115.50
 price = start
 
+# 9:30 -≥ 16:00
 minutes_per_day = 390
 total_ticks = minutes_per_day*2
 
